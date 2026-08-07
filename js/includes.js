@@ -19,7 +19,7 @@
     el.innerHTML = `
       <div class="nav-shell">
         <a class="brand" href="index.html" aria-label="Green Chili Indian Restaurant home">
-          <img src="${LOGO}" width="48" height="48" alt="Green Chili Indian Restaurant logo">
+          <img src="${LOGO}" width="100" height="48" alt="Green Chili Indian Restaurant logo">
           <span class="brand-text"><strong>Green Chili</strong><span>Indian Restaurant</span></span>
         </a>
         <nav class="nav-links" aria-label="Primary">
@@ -52,7 +52,7 @@
     el.innerHTML = `
       <div class="footer-shell">
         <div class="footer-brand">
-          <img src="${LOGO}" width="72" height="72" alt="Green Chili Indian Restaurant">
+          <img src="${LOGO}" width="117" height="56" alt="Green Chili Indian Restaurant">
           <strong>Green Chili</strong>
           <p>Authentic Indian cuisine in Dayton — curries, tandoori, biryani, and warm hospitality at 1501 Lyons Road.</p>
         </div>

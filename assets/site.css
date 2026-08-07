@@ -221,11 +221,9 @@ body:not([data-page="home"]) .site-header {
 }
 
 .brand img {
-  width: 48px;
   height: 48px;
+  width: auto;
   object-fit: contain;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.08);
 }
 
 .brand-text {
@@ -1244,11 +1242,10 @@ body:not([data-page="home"]) .site-header {
 }
 
 .footer-brand img {
-  width: 72px;
-  height: 72px;
+  height: 56px;
+  width: auto;
   object-fit: contain;
   margin-bottom: 1rem;
-  border-radius: 50%;
 }
 
 .footer-brand strong {
