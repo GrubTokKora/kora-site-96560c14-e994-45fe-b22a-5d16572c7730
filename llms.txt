@@ -1,5 +1,9 @@
 # Green Chili Indian Restaurant
-Authentic Indian flavors in Quakertown
-Address: 641 S West End Blvd, Quakertown, PA 18951, United States
-Phone: +12676808855
-Web: https://www.greenchiliindian.com/
+Authentic Indian cuisine in Dayton, OH.
+Address: 1501 Lyons Road, Dayton, OH 45458, USA
+Phone: (937) 999-4545
+Web: https://www.greenchilioh.com/
+Pages: Home, Menu, Contact
+Order: Order Online (greenchilioh.com/#menu)
+Hours: Sun 11:00 AM–9:30 PM; Mon–Thu 11:00 AM–2:30 PM & 4:30 PM–9:30 PM; Fri–Sat 11:00 AM–9:30 PM
+Brand: primary #d97706, secondary #f6f3ee, accent #fb923c
