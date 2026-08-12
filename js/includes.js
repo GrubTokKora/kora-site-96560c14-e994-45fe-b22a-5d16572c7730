@@ -1,7 +1,7 @@
 /* Green Chili Indian shared chrome — unique layout */
 (function () {
-  const ORDER = "https://www.greenchilioh.com/#menu";
-  const ORDER_MENU = "https://www.greenchilioh.com/#menu";
+  const ORDER = "https://greenchilidayton.cloveronline.com";
+  const ORDER_MENU = "https://greenchilidayton.cloveronline.com";
   const PHONE = "9379994545";
   const PHONE_DISPLAY = "(937) 999-4545";
   const MAPS = "https://maps.app.goo.gl/GBnJEeNAktCb8hV2A";
