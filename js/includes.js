@@ -49,6 +49,12 @@
   }
 
   function mountFooter(el) {
+    // Keep Kora "Powered by" branding if the deploy script already injected it
+    // (innerHTML would otherwise wipe it).
+    const koraBranding = Array.from(
+      el.querySelectorAll('[data-kora-branding-footer="true"], .kora-powered-by')
+    );
+
     el.innerHTML = `
       <div class="footer-shell">
         <div class="footer-brand">
@@ -77,6 +83,8 @@
         <p>© ${new Date().getFullYear()} Green Chili Indian Restaurant</p>
         <p>Dine-in · Dayton, OH</p>
       </div>`;
+
+    koraBranding.forEach((node) => el.appendChild(node));
   }
 
   document.addEventListener("DOMContentLoaded", () => {
