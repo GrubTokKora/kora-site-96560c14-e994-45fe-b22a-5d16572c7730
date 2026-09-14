@@ -1441,3 +1441,39 @@ body:not([data-page="home"]) .site-header {
 .review-card cite a {
   color: var(--color-brand-primary);
 }
+
+.faq {
+  padding: clamp(3.5rem, 8vw, 5.5rem) var(--pad);
+}
+
+.faq-head {
+  width: min(var(--max), 100%);
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
+.faq-head h2 {
+  font-size: clamp(2rem, 4.5vw, 3.25rem);
+  margin: 0.5rem 0 0;
+}
+
+.faq-list {
+  width: min(42rem, 100%);
+  margin: 0 auto;
+}
+
+.faq-list details {
+  border-bottom: 1px solid var(--color-brand-border);
+  padding: 1rem 0;
+}
+
+.faq-list summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--color-brand-ink);
+}
+
+.faq-list p {
+  color: var(--color-brand-muted);
+  margin: 0.75rem 0 0;
+}
