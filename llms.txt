@@ -1,9 +1,21 @@
 # Green Chili Indian Restaurant
-Authentic Indian cuisine in Dayton, OH.
-Address: 1501 Lyons Road, Dayton, OH 45458, USA
-Phone: (937) 999-4545
-Web: https://www.greenchilioh.com/
-Pages: Home, Menu, Contact
-Order: Order Online (greenchilioh.com/#menu)
-Hours: Sun 11:00 AM–9:30 PM; Mon–Thu 11:00 AM–2:30 PM & 4:30 PM–9:30 PM; Fri–Sat 11:00 AM–9:30 PM
-Brand: primary #d97706, secondary #f6f3ee, accent #fb923c
+
+> Authentic Indian restaurant in Dayton, OH — curries, tandoori, and biryani.
+
+## Location & Contact
+- Address: 1501 Lyons Road, Dayton, OH 45458, USA
+- Phone: (937) 999-4545
+- Website: https://green-chili-indian-restaurant-live.askkoraai.com
+
+## Hours
+- Sunday: 11:00 AM – 9:30 PM
+- Monday–Thursday: 11:00 AM – 2:30 PM & 4:30 PM – 9:30 PM
+- Friday–Saturday: 11:00 AM – 9:30 PM
+
+## Pages
+- [Home](https://green-chili-indian-restaurant-live.askkoraai.com/): Overview, popular dishes, hours, catering, gallery
+- [Menu](https://green-chili-indian-restaurant-live.askkoraai.com/menu): Full dining menu
+- [Contact](https://green-chili-indian-restaurant-live.askkoraai.com/contact): Phone, address, contact form
+
+## Ordering
+- [Order online](https://greenchilidayton.cloveronline.com)
