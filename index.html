@@ -206,7 +206,58 @@
 <button aria-label="Reservation atmosphere" class="mosaic-cell m5" data-gallery-item="" type="button"></button>
 </div>
 </section>
+<section aria-label="Customer reviews" class="reviews" id="reviews">
+<div class="reviews-head reveal">
+<p class="kicker">Reviews</p>
+<h2>What our guests say</h2>
+<p class="reviews-rating">4.4 ★★★★★ from 734 Google reviews — <a href="https://maps.google.com/?cid=8202495030446626003" rel="noopener noreferrer" target="_blank">see all reviews on Google</a></p>
+</div>
+<div class="reviews-grid reveal">
+<blockquote class="review-card">
+<p>&ldquo;I got the Chicken Tikka Masala and my date got the Chicken Vindaloo. Both were excellent! The Garlic Chili Naan was also very good, with the chili adding a little extra goodness to the classic garlic naan.&rdquo;</p>
+<cite>&mdash; Daniel Vanderbilt, <a href="https://www.google.com/maps/contrib/117118368863343085688/reviews" rel="noopener noreferrer" target="_blank">Google review</a></cite>
+</blockquote>
+<blockquote class="review-card">
+<p>&ldquo;Best Indian restaurant in Dayton, truly authentic not too spicy and very flavorful. We loved the lamb Korma and the lamb or chicken tikki masala. We honestly love it so much we have been there about 6 times.&rdquo;</p>
+<cite>&mdash; Iris Gawel, <a href="https://www.google.com/maps/contrib/105516425892493144249/reviews" rel="noopener noreferrer" target="_blank">Google review</a></cite>
+</blockquote>
+<blockquote class="review-card">
+<p>&ldquo;Wow! This is my new favorite Indian spot. Chicken Tikka Masala is AWESOME. The garlic naan has actual garlic on it! Buttered Chicken was great!&rdquo;</p>
+<cite>&mdash; Honest Connor Review&rsquo;s, <a href="https://www.google.com/maps/contrib/103172968622004867746/reviews" rel="noopener noreferrer" target="_blank">Google review</a></cite>
+</blockquote>
+</div>
+</section>
 </main>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Green Chili Indian Restaurant",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "734"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Daniel Vanderbilt"},
+      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+      "reviewBody": "I got the Chicken Tikka Masala and my date got the Chicken Vindaloo. Both were excellent! The Garlic Chili Naan was also very good."
+    },
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Iris Gawel"},
+      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+      "reviewBody": "Best Indian restaurant in Dayton, truly authentic not too spicy and very flavorful."
+    },
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Honest Connor Review's"},
+      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+      "reviewBody": "Wow! This is my new favorite Indian spot. Chicken Tikka Masala is AWESOME."
+    }
+  ]
+}</script>
 <div aria-label="Image preview" aria-modal="true" class="lightbox" data-lightbox="" role="dialog">
 <button aria-label="Close" class="lightbox-close" data-lightbox-close="" type="button"><svg aria-hidden="true" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.75" viewbox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"></path></svg></button>
 <img alt="Green Chili Indian cuisine" data-lightbox-img=""/>
