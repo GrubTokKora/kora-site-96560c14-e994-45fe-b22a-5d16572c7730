@@ -559,7 +559,7 @@ body:not([data-page="home"]) .site-header {
 
 .story-media {
   min-height: clamp(240px, 42vw, 460px);
-  background: center/cover no-repeat url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115710_tumw7s.png");
+  background: center/cover no-repeat url("assets/img/1786115710_tumw7s.webp");
   position: relative;
 }
 
@@ -834,7 +834,7 @@ body:not([data-page="home"]) .site-header {
 
 .visit-visual {
   min-height: 280px;
-  background: center/cover no-repeat url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115899_7nvduq.jpg");
+  background: center/cover no-repeat url("assets/img/1786115899_7nvduq.webp");
 }
 
 /* Mosaic gallery — asymmetric, not equal strip */
@@ -896,11 +896,11 @@ body:not([data-page="home"]) .site-header {
   background: rgba(217, 119, 6, 0.25);
 }
 
-.m1 { grid-row: 1 / 3; background-image: url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115830_s4a86h.jpg"); }
-.m2 { background-image: url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115835_le9iik.jpg"); }
-.m3 { background-image: url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115839_1jvzg4.jpg"); }
-.m4 { grid-column: 1; background-image: url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115852_l6zpj6.png"); }
-.m5 { grid-column: 2; grid-row: 2 / 4; background-image: url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115899_7nvduq.jpg"); }
+.m1 { grid-row: 1 / 3; background-image: url("assets/img/1786115830_s4a86h.webp"); }
+.m2 { background-image: url("assets/img/1786115835_le9iik.webp"); }
+.m3 { background-image: url("assets/img/1786115839_1jvzg4.webp"); }
+.m4 { grid-column: 1; background-image: url("assets/img/1786115852_l6zpj6.webp"); }
+.m5 { grid-column: 2; grid-row: 2 / 4; background-image: url("assets/img/1786115899_7nvduq.webp"); }
 
 @media (max-width: 600px) {
   .mosaic-grid {
@@ -916,14 +916,14 @@ body:not([data-page="home"]) .site-header {
   padding: calc(var(--header-h) + 3rem) var(--pad) 3rem;
   background:
     linear-gradient(135deg, rgba(17, 17, 17, 0.92), rgba(217, 119, 6, 0.55)),
-    center/cover no-repeat url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115862_fzl2e3.jpg");
+    center/cover no-repeat url("assets/img/1786115862_fzl2e3.webp");
   color: #fff;
 }
 
 .page-intro--contact {
   background:
     linear-gradient(135deg, rgba(17, 17, 17, 0.92), rgba(251, 146, 60, 0.45)),
-    center/cover no-repeat url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115899_7nvduq.jpg");
+    center/cover no-repeat url("assets/img/1786115899_7nvduq.webp");
 }
 
 .page-intro-inner {
@@ -1364,7 +1364,7 @@ body:not([data-page="home"]) .site-header {
   padding: clamp(3.5rem, 8vw, 5.5rem) var(--pad);
   background:
     linear-gradient(120deg, rgba(17, 17, 17, 0.88), rgba(217, 119, 6, 0.72)),
-    center/cover no-repeat url("https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115899_7nvduq.jpg");
+    center/cover no-repeat url("assets/img/1786115899_7nvduq.webp");
   color: #fff;
 }
 .feature-band-inner {

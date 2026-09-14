@@ -10,7 +10,7 @@ window.GCI_MENU = {
     {
       "id": "starters",
       "name": "Starters",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115806_xp8a40.jpg",
+      "image": "assets/img/1786115806_xp8a40.webp",
       "items": [
         {
           "name": "VEGETABLE SAMOSA",
@@ -137,7 +137,7 @@ window.GCI_MENU = {
     {
       "id": "side-orders",
       "name": "Side Orders",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115795_b76ojx.jpg",
+      "image": "assets/img/1786115795_b76ojx.webp",
       "items": [
         {
           "name": "RAITA",
@@ -229,7 +229,7 @@ window.GCI_MENU = {
     {
       "id": "soup-salad",
       "name": "Soup & Salad",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115801_38n941.jpg",
+      "image": "assets/img/1786115801_38n941.webp",
       "items": [
         {
           "name": "Mulligatwany Soup",
@@ -266,7 +266,7 @@ window.GCI_MENU = {
     {
       "id": "kid-s-meal",
       "name": "Kid's Meal",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115752_7r34dm.jpg",
+      "image": "assets/img/1786115752_7r34dm.webp",
       "items": [
         {
           "name": "Kid's Rice and Boneless Chicken",
@@ -278,7 +278,7 @@ window.GCI_MENU = {
     {
       "id": "tandoori-breads-paratha",
       "name": "Tandoori Breads & Paratha",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115811_24464p.jpg",
+      "image": "assets/img/1786115811_24464p.webp",
       "items": [
         {
           "name": "FULKA ROTI",
@@ -365,7 +365,7 @@ window.GCI_MENU = {
     {
       "id": "tandoori-specialties",
       "name": "Tandoori Specialties",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115814_xp1pje.jpg",
+      "image": "assets/img/1786115814_xp1pje.webp",
       "items": [
         {
           "name": "TANDOORI CHICKEN",
@@ -402,7 +402,7 @@ window.GCI_MENU = {
     {
       "id": "chicken-curries",
       "name": "Chicken Curries",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115737_ejowcu.jpg",
+      "image": "assets/img/1786115737_ejowcu.webp",
       "items": [
         {
           "name": "CHICKEN TIKKA MASALA",
@@ -489,7 +489,7 @@ window.GCI_MENU = {
     {
       "id": "seafood-specialties",
       "name": "Seafood Specialties",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115791_577fdd.jpg",
+      "image": "assets/img/1786115791_577fdd.webp",
       "items": [
         {
           "name": "SHRIMP CURRY",
@@ -531,7 +531,7 @@ window.GCI_MENU = {
     {
       "id": "lamb-goat-curries",
       "name": "Lamb & Goat Curries",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115756_g7bpvg.jpg",
+      "image": "assets/img/1786115756_g7bpvg.webp",
       "items": [
         {
           "name": "BHUNA GOSHT",
@@ -603,7 +603,7 @@ window.GCI_MENU = {
     {
       "id": "vegetarian-specials",
       "name": "Vegetarian Specials",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115818_sasiqs.jpg",
+      "image": "assets/img/1786115818_sasiqs.webp",
       "items": [
         {
           "name": "DAL MAKHANI",
@@ -740,7 +740,7 @@ window.GCI_MENU = {
     {
       "id": "rice-biryani",
       "name": "Rice & Biryani",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115786_nfsblf.jpg",
+      "image": "assets/img/1786115786_nfsblf.webp",
       "items": [
         {
           "name": "PULAO RICE",
@@ -792,7 +792,7 @@ window.GCI_MENU = {
     {
       "id": "desserts",
       "name": "Desserts",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115742_fbsgai.jpg",
+      "image": "assets/img/1786115742_fbsgai.webp",
       "items": [
         {
           "name": "Rice Pudding",
@@ -824,7 +824,7 @@ window.GCI_MENU = {
     {
       "id": "beverages",
       "name": "Beverages",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115731_nkbvqb.jpg",
+      "image": "assets/img/1786115731_nkbvqb.webp",
       "items": [
         {
           "name": "SOFT DRINK",
@@ -896,7 +896,7 @@ window.GCI_MENU = {
     {
       "id": "egg-specials",
       "name": "Egg Specials",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115748_7ow7tb.jpg",
+      "image": "assets/img/1786115748_7ow7tb.webp",
       "items": [
         {
           "name": "EGG BIRYANI",
@@ -923,7 +923,7 @@ window.GCI_MENU = {
     {
       "id": "beer",
       "name": "Beer",
-      "image": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115719_zihz2g.jpg",
+      "image": "assets/img/1786115719_zihz2g.webp",
       "items": [
         {
           "name": "MICHELOB ULTRA 12 OZ",
