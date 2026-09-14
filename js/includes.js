@@ -5,7 +5,7 @@
   const PHONE = "9379994545";
   const PHONE_DISPLAY = "(937) 999-4545";
   const MAPS = "https://maps.app.goo.gl/GBnJEeNAktCb8hV2A";
-  const LOGO = "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/96560c14-e994-45fe-b22a-5d16572c7730/de8c94d8-887e-4625-825f-ec262dbc28df/1786115865_bgrw31.png";
+  const LOGO = "https://quseprdus1.blob.core.windows.net/kora-business-images/v2-uploads/96560c14-e994-45fe-b22a-5d16572c7730/d0215b50-5b48-4241-bcef-186209d14113-18_1786115865_bgrw31.webp";
 
   window.GCI_LINKS = { ORDER, ORDER_MENU, PHONE, PHONE_DISPLAY, MAPS };
 
