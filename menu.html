@@ -69,7 +69,8 @@
 <script>
 (function () {
   var koraUrl = "https://askkora.ai";
-  var muted = "#64748b";
+  var muted = "#475569";
+  var mutedBg = "#f1f5f9";
   var blue = "#1E88E5";
   var purple = "#7B1FA2";
   var startMarker = 'KORA_' + 'BRANDING_FOOTER_START';
@@ -97,7 +98,7 @@
     wrapper.className = 'kora-powered-by';
     wrapper.setAttribute('data-kora-branding-footer', 'true');
     wrapper.style.cssText = 'display:flex;justify-content:flex-end;align-items:center;gap:0.35rem;padding:0.75rem 1rem;font-size:0.75rem;';
-    wrapper.innerHTML = '<span style="color:' + muted + '">Powered by</span>' +
+    wrapper.innerHTML = '<span style="color:' + muted + ';background:' + mutedBg + ';padding:0.15rem 0.55rem;border-radius:9999px;">Powered by</span>' +
       '<a href="' + koraUrl + '" target="_blank" rel="noopener noreferrer" style="text-decoration:none;font-weight:600;background:linear-gradient(135deg,' + blue + ',' + purple + ');-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent">Kora</a>';
     return wrapper;
   }
