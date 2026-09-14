@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /.kora/
+Sitemap: https://green-chili-indian-restaurant-live.askkoraai.com/sitemap.xml
