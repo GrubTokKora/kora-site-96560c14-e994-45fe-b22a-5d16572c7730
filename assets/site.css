@@ -12,10 +12,10 @@
   --color-brand-muted: #5c564c;
   --color-brand-border: rgba(217, 119, 6, 0.28);
   --color-brand-overlay: rgba(17, 17, 17, 0.55);
-  --font-brand: "Sora", system-ui, sans-serif;
-  --font-heading: "Sora", system-ui, sans-serif;
-  --font-nav: "DM Sans", system-ui, sans-serif;
-  --font-body: "Roboto", system-ui, sans-serif;
+  --font-brand: var(--kora-font-heading, "Sora"), system-ui, sans-serif;
+  --font-heading: var(--kora-font-heading, "Sora"), system-ui, sans-serif;
+  --font-nav: var(--kora-font-body, "DM Sans"), system-ui, sans-serif;
+  --font-body: var(--kora-font-body, "Roboto"), system-ui, sans-serif;
   --shadow-soft: 0 20px 60px rgba(20, 24, 20, 0.12);
   --radius: 0;
   --header-h: 72px;

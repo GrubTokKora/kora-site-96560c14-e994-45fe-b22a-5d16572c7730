@@ -17,10 +17,11 @@
   --color-brand-muted: #5c564c;
   --color-brand-soft: #f6f3ee;
   --color-brand-border: rgba(217, 119, 6, 0.28);
-  --font-brand: "Sora", system-ui, sans-serif;
-  --font-heading: "Sora", system-ui, sans-serif;
-  --font-body: "Roboto", system-ui, sans-serif;
-  --font-nav: "DM Sans", system-ui, sans-serif;
+  --font-brand: var(--font-heading);
+  --font-heading: var(--kora-font-heading, "Sora"), system-ui, sans-serif;
+  --font-body: var(--kora-font-body, "Roboto"), system-ui, sans-serif;
+  --font-accent: var(--kora-font-accent, var(--font-heading)), var(--font-heading);
+  --font-nav: var(--font-body);
 }
 /* KORA_BRAND_THEME_END */
 
@@ -42,10 +43,10 @@
     --color-brand-muted: #5c564c;
     --color-brand-soft: #f6f3ee;
     --color-brand-border: rgba(217, 119, 6, 0.28);
-    --font-brand: "Sora", system-ui, sans-serif;
-    --font-heading: "Sora", system-ui, sans-serif;
-    --font-body: "Roboto", system-ui, sans-serif;
-    --font-nav: "DM Sans", system-ui, sans-serif;
+    --font-brand: var(--font-heading);
+    --font-heading: var(--kora-font-heading, "Sora"), system-ui, sans-serif;
+    --font-body: var(--kora-font-body, "Roboto"), system-ui, sans-serif;
+    --font-nav: var(--font-body);
   }
 
   html {
@@ -65,3 +66,6 @@
   }
 }
 /* KORA_BRAND_BASE_END */
+
+/* Kora fonts: this site's own Google link never asked for optical sizing (DM Sans), so keep the look it was approved with. */
+@layer base { html { font-optical-sizing: none; } }
